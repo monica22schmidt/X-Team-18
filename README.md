@@ -9,7 +9,7 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:Monica Schmidt       name 1:monica22schmidt
        * GitHub username 2:Vera Wei             name 2: vw1997
-       * GitHub username 3:       name 3:
+       * GitHub username 3:David Jin            name 3: jinbar
        * GitHub username 4:       name 4:
        * GitHub username 5:       name 5:
    * When did you complete this exercise? 
