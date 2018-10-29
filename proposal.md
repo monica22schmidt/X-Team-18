@@ -52,7 +52,13 @@ Describe at a high level a program that could solve that problem.</br>
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
-
+   **/\* EXAMPLE OUTPUT FORMAT \*/**</br>
+   **Please enter your name (First Last): \<*fisrtName lastName*>**</br>
+   **Please enter the department you belong to: \<*department*>**</br>
+   **For the following, please enter "N/A" if not applicable.** </br>
+   **Please enter your home number: \<*home number*>**</br>
+   **Please enter your mobile number: \<*mobile number*>**</br>
+   **Please enter your work number: \<*work number*>**</br>  
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
