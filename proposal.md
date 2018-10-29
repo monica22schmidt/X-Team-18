@@ -72,7 +72,7 @@ Describe at a high level a program that could solve that problem.</br>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-
+   **At this point, our team will simulate a simple user interface in Main to exemplify the foundational blueprint of the phone book  system. Eventually, the team will make visual and interactive enhancements to the system by implementing an online user interface similar to a survey form.**
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating.
