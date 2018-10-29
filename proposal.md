@@ -42,7 +42,7 @@ A company of 5,000 people is in need of a search engine that acts as a directory
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.</br></br>
-   **//* EXAMPLE OUTPUT FORMAT /*/**</br>
+   **/\* EXAMPLE OUTPUT FORMAT \*/**</br>
    **Name: \<*name*>**</br>
    **Department: \<*department*>**</br>
    **Phone Number:**</br>
