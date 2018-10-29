@@ -76,11 +76,11 @@ For our employees, we have a collection of names, addresses, and phone numbers. 
   **After one of the three options are executed the user is prompted to pick from the previous three choices or to exit**</br>
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-  **Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating.**</br>
+  **Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating**</br>
   **Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. **</br>
 
 
-Name each interface or class and briefly describe its function or purpose.
+Name each interface or class and briefly describe its function or purpose.</br>
   **Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.**</br>
   **HashTableADT - Outlines the different methods we will use in our hashtable implementation**</br>
   **HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.**</br>
