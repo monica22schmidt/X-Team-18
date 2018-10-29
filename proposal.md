@@ -32,15 +32,15 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.</br>
 
-# Problem Context  
+### Problem Context  
 **A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. The team of software engineers in the company hope to design a system that stores all the phone numbers (home, mobile, work, etc.) of all the employees.**</br>
 
-# Main class  
+### Main class  
 **The main class will construct an instance of hashtable and also create a mode of retrieving data such as an instance of Scanner to read from System.in. Main will also act as a potential interface, prompting the user to enter their information.** </br>
-# Custom Data Structure 
+### Custom Data Structure 
 **The custom data structure would be an implementation of hastable. The hashtable would use an array to store the data. The type used to create the array would be custom to store a name, department, and several phone numbers. A key value would be generated based on the name. The key would be modulused to fit the array size. If there was a collision at one of the indexes a list would be placed in that index.**
 
-# Unit Tests 
+### Unit Tests 
 
 
 ## Questions to answer for Exercise #2
