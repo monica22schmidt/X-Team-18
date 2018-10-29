@@ -32,7 +32,15 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.</br>
 
+# Problem Context  
 **A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. The team of software engineers in the company hope to design a system that stores all the phone numbers (home, mobile, work, etc.) of all the employees.**
+
+# Main class  
+
+# Custom Data Structure  
+
+# Unit Tests 
+
 
 ## Questions to answer for Exercise #2
 
