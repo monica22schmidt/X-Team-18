@@ -12,8 +12,13 @@
        * GitHub username 3: **David Jin**            name 3: **jinbar**
        * GitHub username 4: **Mitchell Bricco**       name 4: **mbricco**
      
-   * When did you complete this exercise? 
+   * When did you complete this exercise? </br>
+     
+     **We completed this exercise on October 29th, 2018 at 9:00 PM.**
+     
    * How long did it take your team to complete this exercise? 
+    
+     **It took our team 4 hours to complete this exercise.**
 
 ## Table of Contents
 
