@@ -14,22 +14,22 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-  -Send messages in the group chat when having issue and when task is completed</br>
-  -Meet together at the designated meeting day(Sunday at 7pm) to collaberate</br>
+  * Send messages in the group chat when having issue and when task is completed</br>
+  * Meet together at the designated meeting day(Sunday at 7pm) to collaberate</br>
 
 ## How will we communicate difficulties with a task assigned to us
-  -Be honest when you are struggling</br>
-  -Don't be afraid to ask questions</br>
-  -Don't be afraid to speak up when you are not comfortable with the part you are assigned</br>
+  * Be honest when you are struggling</br>
+  * Don't be afraid to ask questions</br>
+  * Don't be afraid to speak up when you are not comfortable with the part you are assigned</br>
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-  -Be honest about things going on in your life</br>
-  -Don't be afraid to ask for help</br>
-  -We will work as a team to complete the assignment</br>
+  * Be honest about things going on in your life</br>
+  * Don't be afraid to ask for help</br>
+  * We will work as a team to complete the assignment</br>
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
-  -Always answer group chat and email</br>
+  * Always answer group chat and email</br>
 
 
