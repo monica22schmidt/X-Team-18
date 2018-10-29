@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.</br>
+For our employees, we have a collection of names, addresses, and phone numbers. They are all currently in an excel spread sheet, and we would like a more efficient way of accessing the contact information. It is simlpy just not efficient enough with the current way we store them. Just last week, we had an incident where an employee needed an ambulance, and we coulnd't find the proper phone number. Precious time was wasted.</br>
 
 # Problem Context  
 **A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. The team of software engineers in the company hope to design a system that stores all the phone numbers (home, mobile, work, etc.) of all the employees.**
@@ -71,28 +70,18 @@ Describe at a high level a program that could solve that problem.</br>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-   The program would start off by asking if the user wants to create a new phonebook entry, search for an entry, or remove an    entry. 
-
-   Create new phonebook entry - Prompts user for name, department, home, mobile, and work numbers
-
-   Search for an entry -  Prompts for the name of the person 
-
-   Remove an entry - Prompts for the name of the person
-
-   After the first entry is picked you will be prompted again to pick 1 of the 3 options but an additional option will be        available and that is exit.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-   Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex      generating.
-   
-   Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work.      Has mutator and accessors to allow us to use the information stored inside. 
+Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating.
+Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. 
 
 
 Name each interface or class and briefly describe its function or purpose.
-   Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.
-   HashTableADT - Outlines the different methods we will use in our hashtable implementation
-   HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts        similar to a phone book.
-   Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)
+Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.
+HashTableADT - Outlines the different methods we will use in our hashtable implementation
+HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.
+Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)
 
 ## Edit and Submit this file and any figures referenced by this document.
 
