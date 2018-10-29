@@ -7,10 +7,10 @@
 
 2. Answer these questions
    * What are the GitHub usernames and names of your team members?
-       * GitHub username 1: **Monica Schmidt**       name 1: **monica22schmidt**
-       * GitHub username 2: **Vera Wei**             name 2: **vw1997**
-       * GitHub username 3: **David Jin**            name 3: **jinbar**
-       * GitHub username 4: **Mitchell Bricco**       name 4: **mbricco**
+       * GitHub username 1: **monica22schmidt**      name 1: **Monica Schmidt** 
+       * GitHub username 2: **vw1997**           name 2: **Vera Wei** 
+       * GitHub username 3: **jinbar**          name 3: **David Jin** 
+       * GitHub username 4: **mbricco**      name 4: **Mitchell Bricco** 
      
    * When did you complete this exercise? </br>
      
