@@ -40,7 +40,7 @@ The company in question has all of the contact info from their employees, being 
 **The custom data structure would be an implementation of hastable. The hashtable would use an array to store the data. The type used to create the array would be custom to store a name, department, and several phone numbers. A key value would be generated based on the name. The key would be modulused to fit the array size. If there was a collision at one of the indexes a list would be placed in that index.**
 
 ### Unit Tests 
-
+**Tests the functionality of the methods insert, remove, lookup, resize, and hashindex calculation. Also tests empty and parameterized constuctors. There will also be test for checking if a hashtable is empty or not.**</br>
 
 ## Questions to answer for Exercise #2
 
