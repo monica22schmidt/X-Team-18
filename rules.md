@@ -9,7 +9,8 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-  -As a group based on skill and availablity 
+  -As a group, based on skill and availablity 
+  -For each project, check with each member every two days to make sure everyone is making relatively smooth progress with the tasks they      were delegated. If anyone is having trouble, others should help and perhaps offer to share responsibility of completing that task. 
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
