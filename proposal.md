@@ -71,27 +71,28 @@ Describe at a high level a program that could solve that problem.</br>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
-The program would start off by asking if the user wants to create a new phonebook entry, search for an entry, or remove an entry. 
+   The program would start off by asking if the user wants to create a new phonebook entry, search for an entry, or remove an    entry. 
 
-Create new phonebook entry - Prompts user for name, department, home, mobile, and work numbers
+   Create new phonebook entry - Prompts user for name, department, home, mobile, and work numbers
 
-Search for an entry -  Prompts for the name of the person 
+   Search for an entry -  Prompts for the name of the person 
 
-Remove an entry - Prompts for the name of the person
+   Remove an entry - Prompts for the name of the person
 
-After the first entry is picked you will be prompted again to pick 1 of the 3 options but an additional option will be available and that is exit.
+   After the first entry is picked you will be prompted again to pick 1 of the 3 options but an additional option will be        available and that is exit.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating.
-Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. 
+   Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex      generating.
+   
+   Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work.      Has mutator and accessors to allow us to use the information stored inside. 
 
 
 Name each interface or class and briefly describe its function or purpose.
-Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.
-HashTableADT - Outlines the different methods we will use in our hashtable implementation
-HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.
-Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)
+   Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.
+   HashTableADT - Outlines the different methods we will use in our hashtable implementation
+   HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts        similar to a phone book.
+   Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)
 
 ## Edit and Submit this file and any figures referenced by this document.
 
