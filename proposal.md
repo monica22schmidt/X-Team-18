@@ -36,18 +36,18 @@ A company of 5,000 people is in need of a search engine that acts as a directory
 
 ## Questions to answer for Exercise #2
 
-1. Name: Give your project proposal a name (and edit the top line of this file)</br>
+1. Name: Give your project proposal a name (and edit the top line of this file)</br></br>
    Phone Book 
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-   "Name: <name>
-    Department: <department>
-    Phone Number: 
-    Home <home number>
-    Mobile <mobile number>
-    Work <work number>"
+2. Output: Describe the output your program will produce.  Include and example format of the output produced.</br></br>
+   "Name: <name></br>
+    Department: <department></br>
+    Phone Number: </br>
+    Home <home number></br>
+    Mobile <mobile number></br>
+    Work <work number>"</br>
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
