@@ -29,8 +29,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.</br>
+The company in question has all of the contact info from their employees, being their name, number, and address. All of this information is in an excel spreadsheet. However, this is not a particularly efficient way of storing that information. Just last week, there was an emergency, and because of the inefficient manner of the excel spreadsheet, valuable time was wasted. We need to find a more efficient way to store the contact info.</br>
 
 ### Problem Context  
 **A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. The team of software engineers in the company hope to design a system that stores all the phone numbers (home, mobile, work, etc.) of all the employees.**</br>
