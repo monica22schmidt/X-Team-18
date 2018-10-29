@@ -53,7 +53,7 @@ Describe at a high level a program that could solve that problem.</br>
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.</br></br>
    **/\* EXAMPLE INPUT FORMAT \*/**</br>
-   **Please enter your name (First Last): \<*fisrtName lastName*>**</br>
+   **Please enter your name (First Last): \<*firstName lastName*>**</br>
    **Please enter the department you belong to: \<*department*>**</br>
    **For the following, please enter "N/A" if not applicable.** </br>
    **Please enter your home number: \<*home number*>**</br>
