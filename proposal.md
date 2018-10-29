@@ -71,6 +71,15 @@ Describe at a high level a program that could solve that problem.</br>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+The program would start off by asking if the user wants to create a new phonebook entry, search for an entry, or remove an entry. 
+
+Create new phonebook entry - Prompts user for name, department, home, mobile, and work numbers
+
+Search for an entry -  Prompts for the name of the person 
+
+Remove an entry - Prompts for the name of the person
+
+After the first entry is picked you will be prompted again to pick 1 of the 3 options but an additional option will be available and that is exit.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
