@@ -77,7 +77,7 @@ For our employees, we have a collection of names, addresses, and phone numbers. 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br></br>
   **Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating**</br>
-  **Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. **</br>
+  **Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside.**</br>
 
 
 Name each interface or class and briefly describe its function or purpose.</br></br>
