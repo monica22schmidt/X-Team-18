@@ -32,6 +32,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 Briefly describe a problem that your team would like to solve.  
 Describe at a high level a program that could solve that problem.</br>
 
+A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. 
 
 ## Questions to answer for Exercise #2
 
