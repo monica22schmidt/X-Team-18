@@ -42,7 +42,12 @@ A company of 5,000 people is in need of a search engine that acts as a directory
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-
+   "Name: <name>
+    Department: <department>
+    Phone Number: 
+    Home <home number>
+    Mobile <mobile number>
+    Work <work number>"
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
