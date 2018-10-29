@@ -29,14 +29,16 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-For our employees, we have a collection of names, addresses, and phone numbers. They are all currently in an excel spread sheet, and we would like a more efficient way of accessing the contact information. It is simlpy just not efficient enough with the current way we store them. Just last week, we had an incident where an employee needed an ambulance, and we coulnd't find the proper phone number. Precious time was wasted.</br>
+Briefly describe a problem that your team would like to solve.  
+Describe at a high level a program that could solve that problem.</br>
 
 # Problem Context  
 **A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. The team of software engineers in the company hope to design a system that stores all the phone numbers (home, mobile, work, etc.) of all the employees.**
 
 # Main class  
 
-# Custom Data Structure  
+# Custom Data Structure 
+**The custom data structure would be an implementation of hastable. The hashtable would use an array to store the data. The type used to create the array would be custom to store a name, department, and several phone numbers. A key value would be generated based on the name. The key would be modulused to fit the array size. If there was a collision at one of the indexes a list would be placed in that index.**
 
 # Unit Tests 
 
@@ -68,23 +70,20 @@ For our employees, we have a collection of names, addresses, and phone numbers. 
    **Please enter your work number: \<*work number*>**</br>  
 
 
-4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.</br></br>
-  **Text based menu options. Program starts by asking the user if they want to insert, remove, or lookup an entry**</br>
-  **Insert - User is prompted for a name, department, home, work, mobile.**</br>
-  **Remove - Prompted for a name**</br>
-  **Lookup - Prompted for a name**</br>
-  **After one of the three options are executed the user is prompted to pick from the previous three choices or to exit**</br>
-
-5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br></br>
-  **Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating**</br>
-  **Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside.**</br>
+4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
 
-Name each interface or class and briefly describe its function or purpose.</br></br>
-  **Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.**</br>
-  **HashTableADT - Outlines the different methods we will use in our hashtable implementation**</br>
-  **HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.**</br>
-  **Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)**</br>
+
+5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
+Hashtable - Acts as the actual phone book. Has insert, lookup, and remove methods. Also deals with resizing and hashIndex generating.
+Node - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. 
+
+
+Name each interface or class and briefly describe its function or purpose.
+Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.
+HashTableADT - Outlines the different methods we will use in our hashtable implementation
+HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.
+Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)
 
 ## Edit and Submit this file and any figures referenced by this document.
 
