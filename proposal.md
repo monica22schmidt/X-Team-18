@@ -45,9 +45,9 @@ A company of 5,000 people is in need of a search engine that acts as a directory
    "Name: <name></br>
     Department: <department></br>
     Phone Number: </br>
-    Home <home number></br>
-    Mobile <mobile number></br>
-    Work <work number>"</br>
+    Home - \<home number></br>
+    Mobile - \<mobile number></br>
+    Work - \<work number>"</br>
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
