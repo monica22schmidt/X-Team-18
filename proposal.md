@@ -29,10 +29,8 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-The company in question has all of the contact info from their employees, being their name, number, and address. All of this information is in an excel spreadsheet. However, this is not a particularly efficient way of storing that information. Just last week, there was an emergency, and because of the inefficient manner of the excel spreadsheet, valuable time was wasted. We need to find a more efficient way to store the contact info.</br>
-
 ### Problem Context  
-**A company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information. The best way for quick and direct communication between the employees is by phone. The team of software engineers in the company hope to design a system that stores all the phone numbers (home, mobile, work, etc.) of all the employees.**</br>
+**A young company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information (name, department, phone numbers). Company management believes this will facilitate quick and direct communication between the employees. The company has most employees' contact information, but these entries are stored in an outdated Excel spreadsheet, which is not the most efficient and accessible platform for employees to search for each other. In addition, it wouldn't hurt for employees to re-input their information to reflect the most current and accurate details. The team of software engineers in the company hope to design a new system that stores all employees' relevant information.**</br>
 
 ### Main class  
 **The main class will construct an instance of hashtable and also create a mode of retrieving data such as an instance of Scanner to read from System.in. Main will also act as a potential interface, prompting the user to enter their information. Main should ultimately output the requested information for a particular name.** </br>
