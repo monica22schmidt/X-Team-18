@@ -16,17 +16,20 @@ and missed deadlines.
 ## How will we will track progress (and follow-up) on completion of tasks
   * Send messages in the group chat when having issue and when task is completed.</br>
   * Meet together on designated meeting day(Sunday at 7pm under normal circumstances) to collaborate face-to-face.</br>
+  * Send group emails to ensure that in case of missed communications through groupme, everyone gets the info needed.</br>
+
 
 ## How will we communicate difficulties with a task assigned to us
   * Be honest when you are struggling.</br>
   * Don't be afraid to ask questions.</br>
   * Don't be afraid to speak up when you are not comfortable with the part you are assigned.</br>
+  * Offer help or general tips/links to the group if you find something useful.</br>
 
 
 ## How we will back up each other to ensure that deadlines are not missed
   * Be honest about things going on in your life.</br>
   * Don't be afraid to ask for help.</br>
-  * We will work as a team to complete the assignment; that is, every individual's input is highly valued and imperative to the completion of each project.</br>
+  * We will work as a team to complete the assignment; that is, every individual's input is highly valued and imperative to the      completion of each project.</br>
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
