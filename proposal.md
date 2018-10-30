@@ -90,13 +90,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
     *Please refer to Fig 1, 2, and 3 attached to submission.*</br>
     
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br>
-  * **Hashtable**: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert, lookup, and remove methods. Also resizes array when table is full and calculates hashIndex.</br>
-  * **Entry**: Holds the information for each employee entry. Has name (String type) as key and other information (department, phone numbers in String type) as value. Has mutator and accessors to allow manipulation and retrieval of the data. </br>
+  * **HashTable**: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert (insert employee entry), lookup (search for employee entry and return its index in the table), remove (delete employee entry), contains (return boolean of whether or not a piece of information exists in hashtable), size (number of employee entries in table) methods. Also resizes array when table is full and calculates hashIndex.</br>
+  * **Entry (nested class within HashTable)**: Holds the information for each employee entry. Has name (String type) as key and other information (department, phone numbers in String type) as value. Has mutator and accessors to allow manipulation and retrieval of the data. </br>
 
 
 Name each interface or class and briefly describe its function or purpose.</br>
   * **Main**: Acts as the user interface. Asks for input and calls different methods to store and organize the input.</br>
-  * **HashTableADT**: Outlines the different methods we will use in our hashtable implementation</br>
+  * **HashTableADT (interface)**: Outlines the different methods we will use in our hashtable implementation</br>
   * **HashTable**: Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.</br>
   * **Entry**: hold the information for each entry into the phone book (name, department, phone numbers)</br>
 
