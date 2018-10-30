@@ -39,7 +39,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 **The custom data structure will be based on the implementation of a hashtable. The idea is to use hashing as a mechanism for distributing the entries (key/value pairs) across an array of buckets. Given a key, the hash function algorithm computes an index that suggests where the entry can be found. In this context, given that the keys are names of String type, the hash function will first convert every character in a name to their respective ASCII values, and then the (characters summed on base 256 such that "cab" can be represented by 99\*256^2 + 97\*256^1 + 98\*256^0) % (table size) will map to the index in the hashtable array that stores all information (value) for the name (key). Information includes name, department, and several phone numbers. Separate chaining will be implemented to account for collisions where multiple keys map to the same index.**
 
 ### Unit Tests 
-**Unit tests for the program consist of JUnit tests that assesses the functionality of the methods in the HashTableADT interface (insert, remove, lookup, size, resize and hashindex calculation. Also tests empty and parameterized constuctors. There will also be test for checking if a hashtable is empty or not.**</br>
+**Unit tests for the program consist of JUnit tests that assess the functionality of the methods required for successful implementation of hashTable (insert, remove, lookup, size, resize, hashindex calculation, etc.). Tests empty and parameterized constuctors as well. There will also be test for checking if a hashtable is empty or not after certain operations. When program does not run as expected, programmer will be able to see which tests failed/passed.**</br>
 
 ## Questions to answer for Exercise #2
 
@@ -61,7 +61,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.</br></br>
-   **The input of our program may come in two forms: direct input by user in Main or comma-delimited input formatted by online form**</br>
+   **The input of our program may come in two forms: direct input by user in Main or comma-delimited input formatted by online form.**</br>
    
    **/\* EXAMPLE INPUT FORMAT 1 (direct input to program by user)\*/**</br>
    **Please enter your name (First Last): John Doe**</br>
@@ -86,6 +86,9 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
    **Please enter your mobile number: \<*mobile number*>**</br>
    **Please enter your work number: \<*work number*>**</br> 
    
+    **/\* EXAMPLE USER INTERFACE USING GUI\*/**</br>
+    *Please refer to Fig 1, 2, and 3 attached to submission.*</br>
+    
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br>
   * **Hashtable**: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert, lookup, and remove methods. Also resizes array when table is full and calculates hashIndex.</br>
   * **Entry**: Holds the information for each employee entry. Has name (String type) as key and other information (department, phone numbers in String type) as value. Has mutator and accessors to allow manipulation and retrieval of the data. </br>
