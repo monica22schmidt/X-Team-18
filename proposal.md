@@ -62,13 +62,14 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.</br></br>
    **The input of our program may come in two forms: direct input by user in Main or comma-delimited input formatted by online form**</br>
+   
    **/\* EXAMPLE INPUT FORMAT 1 (direct input to program by user)\*/**</br>
    **Please enter your name (First Last): John Doe**</br>
    **Please enter the department you belong to: UX/UI**</br>
    **For the following, please enter "N/A" if not applicable.** </br>
    **Please enter your home number: N/A**</br>
    **Please enter your mobile number: 9192403654**</br>
-   **Please enter your work number: 6084074008**</br></br>
+   **Please enter your work number: 6084074008**</br>
    
    **/\* EXAMPLE INPUT FORMAT 2 (comma-delimited input)\*/**</br>
    **John,Doe,UX/UI,N/A,919240354,6084074008** <input format for single employee entry> </br>
