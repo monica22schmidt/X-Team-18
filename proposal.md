@@ -33,7 +33,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 **A young company of 5,000 people is in need of a search engine that acts as a directory of all employees and their contact information (name, department, phone numbers). Company management believes this will facilitate quick and direct communication between the employees. The company has most employees' contact information, but these entries are stored in an outdated Excel spreadsheet, which is not the most efficient and accessible platform for employees to search for each other. In addition, it wouldn't hurt for employees to re-input their information to reflect the most current and accurate details. The team of software engineers in the company hope to design a new system that stores all employees' relevant information.**</br>
 
 ### Main class  
-**The main class will construct an instance of hashtable and also create a mode of retrieving data such as an instance of Scanner to read from System.in. Main will also act as a potential interface, prompting the user to enter their information. Main should ultimately output the requested information for a particular name.** </br>
+**The main class will construct an instance of hashtable and also create a mode of retrieving data such as an instance of Scanner to read from System.in. Main will also act as a potential interface, prompting the user to enter their information. If the available data is raw in the form of a spreadsheet, Main calls methods to process the file and organize the data into their respective fields. Main should ultimately output the requested information for a particular name.** </br>
 
 ### Custom Data Structure 
 **The custom data structure will be based on the implementation of a hashtable. The idea is to use hashing as a mechanism for distributing the entries (key/value pairs) across an array of buckets. Given a key, the hash function algorithm computes an index that suggests where the entry can be found. In this context, given that the keys are names of String type, the hash function will first convert every character in a name to their respective ASCII values, and then the (characters summed on base 256 such that "cab" can be represented by 99\*256^2 + 97\*256^1 + 98\*256^0) % (table size) will map to the index in the hashtable array that stores all information (value) for the name (key). Information includes name, department, and several phone numbers. Separate chaining will be implemented to account for collisions where multiple keys map to the same index.**
@@ -88,7 +88,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
    
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br>
   * **Hashtable**: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert, lookup, and remove methods. Also resizes array when table is full and calculates hashIndex.</br>
-  * **Entry** - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. </br>
+  * **Entry**: Holds the information for each employee entry. Has name (String type) as key and other information (department, phone numbers in String type) as value. Has mutator and accessors to allow manipulation and retrieval of the data. </br>
 
 
 Name each interface or class and briefly describe its function or purpose.</br>
