@@ -44,7 +44,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 ## Questions to answer for Exercise #2
 
 1. Name: Give your project proposal a name (and edit the top line of this file)</br></br>
-   **Phone Book** 
+   **Employee Phone Directory** 
 
 
 
@@ -68,7 +68,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
    **For the following, please enter "N/A" if not applicable.** </br>
    **Please enter your home number: N/A**</br>
    **Please enter your mobile number: 9192403654**</br>
-   **Please enter your work number: 6084074008**</br> 
+   **Please enter your work number: 6084074008**</br></br>
    
    **/\* EXAMPLE INPUT FORMAT 2 (comma-delimited input)\*/**</br>
    **John,Doe,UX/UI,N/A,919240354,6084074008** <input format for single employee entry> </br>
