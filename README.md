@@ -1,4 +1,4 @@
-# monica22schmidt / redesigned-lamp
+# xteam-exercise-2: https://github.com/monica22schmidt/redesigned-lamp
 
 1. Edit the title of this document
    * Replace <UserName> with the user name of the team member who created shared repository
