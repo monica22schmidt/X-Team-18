@@ -49,7 +49,9 @@ The company in question has all of the contact info from their employees, being 
 
 
 
-2. Output: Describe the output your program will produce.  Include and example format of the output produced.</br></br>
+2. Output: Describe the output your program will produce.  Include an example format of the output produced.</br></br>
+   **The output of our program includes a listing of basic information (name, department, phone numbers) for a name the program's user input.**
+   
    **/\* EXAMPLE OUTPUT FORMAT \*/**</br>
    **Name: \<*name*>**</br>
    **Department: \<*department*>**</br>
