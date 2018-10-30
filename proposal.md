@@ -72,7 +72,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
    **Please enter your work number: 6084074008**</br>
    
    **/\* EXAMPLE INPUT FORMAT 2 (comma-delimited input)\*/**</br>
-   **John,Doe,UX/UI,N/A,919240354,6084074008** <input format for single employee entry> </br>
+   **John,Doe,UX/UI,N/A,919240354,6084074008** \<input format for single employee entry> </br>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.</br>
 
@@ -88,14 +88,14 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
    
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br>
   * **Hashtable**: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert, lookup, and remove methods. Also resizes array when table is full and calculates hashIndex.</br>
-  * **Entry** - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. 
+  * **Entry** - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. </br>
 
 
-Name each interface or class and briefly describe its function or purpose.
-Main - Acts as the user interface. Asks for input and calls different methods to store and organize the input.
-HashTableADT - Outlines the different methods we will use in our hashtable implementation
-HashTable - Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.
-Node - hold the information for each entry into the phone book (name, department, home, cell, and work phones)
+Name each interface or class and briefly describe its function or purpose.</br>
+  * **Main**: Acts as the user interface. Asks for input and calls different methods to store and organize the input.</br>
+  * **HashTableADT**: Outlines the different methods we will use in our hashtable implementation</br>
+  * **HashTable**: Creates the functionality of the hashtable. Stores the information gathered from the phone book input. Acts similar to a phone book.</br>
+  * **Entry**: hold the information for each entry into the phone book (name, department, phone numbers)</br>
 
 ## Edit and Submit this file and any figures referenced by this document.
 
