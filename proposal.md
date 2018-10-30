@@ -1,4 +1,4 @@
-# Phone Book (X-Team 18 Project Proposal) 
+# Employee Phone Directory (X-Team 18 Project Proposal) 
 
 See https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code for tips on using *Markdown* tags to format __.md__ files
 
@@ -63,9 +63,17 @@ The company in question has all of the contact info from their employees, being 
 
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.</br></br>
-   **/\* EXAMPLE INPUT FORMAT \*/**</br>
- 
-
+   **The input of our program may come in two forms: direct input by user in Main or comma-delimited input formatted by online form**</br>
+   **/\* EXAMPLE INPUT FORMAT 1 (direct input to program by user)\*/**</br>
+   **Please enter your name (First Last): John Doe**</br>
+   **Please enter the department you belong to: UX/UI**</br>
+   **For the following, please enter "N/A" if not applicable.** </br>
+   **Please enter your home number: N/A**</br>
+   **Please enter your mobile number: 9192403654**</br>
+   **Please enter your work number: 6084074008**</br> 
+   
+   **/\* EXAMPLE INPUT FORMAT 2 (comma-delimited input)\*/**</br>
+   **John,Doe,UX/UI,N/A,919240354,6084074008** <input format for single employee entry> </br>
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.</br>
 
@@ -80,8 +88,8 @@ The company in question has all of the contact info from their employees, being 
    **Please enter your work number: \<*work number*>**</br> 
    
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.</br>
-  * Hashtable: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert, lookup, and remove methods. Also resizes array when table is full and calculates hashIndex.</br>
-  * Entry - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. 
+  * **Hashtable**: Acts as the phone book that stores numbers and other information corresponding with employee names. Implements insert, lookup, and remove methods. Also resizes array when table is full and calculates hashIndex.</br>
+  * **Entry** - Holds the information for each phone book entry. Has instance variables for Name, Department, Home, Mobile, Work. Has mutator and accessors to allow us to use the information stored inside. 
 
 
 Name each interface or class and briefly describe its function or purpose.
